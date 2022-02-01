@@ -283,7 +283,6 @@ $ python3 unittest -m tests/test_console.py
 ## :enter_belu: 
 * **elias fiseha** - [malu17](https://github.com/malu17)
 
-----
 [![Twitter Follow](https://img.shields.io/twitter/follow/JulianR_30.svg?style=social&label=Follow)](https://twitter.com/eliasfiseha1)
 
 
