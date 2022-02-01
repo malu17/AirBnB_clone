@@ -60,7 +60,6 @@ EOF  help  quit  create  destroy  show  all  update
 $
 ```
 ## Authors
-| Name | GitHub username |
-| ------ | ------ |
-| eliyas fiseha| [malu17](https://github.com/malu17) |
-| 
+
+eliyas fiseha| [malu17](https://github.com/malu17) 
+ 
