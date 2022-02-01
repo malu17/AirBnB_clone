@@ -62,5 +62,5 @@ $
 ## Authors
 | Name | GitHub username |
 | ------ | ------ |
-| Yunus Kidem | [Yunus-kidem](https://github.com/Yunus-kidem) |
-| Promise Yehangane  | [nuel07](https://github.com/nuel07) |
+| eliyas fiseha| [malu17](https://github.com/malu17) |
+| 
