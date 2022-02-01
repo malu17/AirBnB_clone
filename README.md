@@ -284,7 +284,8 @@ $ python3 unittest -m tests/test_console.py
 * **elias fiseha** - [malu17](https://github.com/malu17)
 
 ----
-[![Twitter Follow](https://img.shields.io/twitter/follow/JulianR_30.svg?style=social&label=Follow)](https://twitter.com/eliasfiseha1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
+label=Follow)](https://twitter.com/eliasfiseha1)
 
 2022
 ## :mega: Acknowledgments
