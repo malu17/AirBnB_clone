@@ -278,7 +278,7 @@ $ python3 unittest -m tests/test_console.py
 
 
 ## Credit
-*elias fiseha* - malu17](https://github.com/malu17) || 
+*elias fiseha* - (https://github.com/malu17)  
 
 
 ## :enter_belu: 
